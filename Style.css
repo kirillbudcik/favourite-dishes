@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 300px;
+}
+
+.body {
+    background-image: linear-gradient(red, blue, purple);
+}
